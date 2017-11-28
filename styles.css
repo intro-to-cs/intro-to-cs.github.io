@@ -61,6 +61,12 @@ li {
   display: list-item;
   text-align: -webkit-match-parent;
 }
+
+
+.output {
+  font-size: 15px;
+  background-color: #E1DEDD;
+}
 .universe h2 {
     font-size: 30px;
     font-weight: 300;
